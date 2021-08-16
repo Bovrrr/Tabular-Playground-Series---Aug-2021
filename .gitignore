@@ -1,3 +1,6 @@
+/files/.vscode/
+/files/.ipynb_checkpoints/
+/files/jup_and_py_files/.ipynb_checkpoints
 /files/data/
 pyvenv.cfg
 /bin/
